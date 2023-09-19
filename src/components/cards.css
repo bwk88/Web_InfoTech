@@ -1,4 +1,7 @@
-cards{
-    background-color: yellow;
+.cards{
+    background-color: pink;
     margin: 2px;
+}
+.cards:hover{
+    background-color: yellow;
 }
